@@ -3,3 +3,5 @@
 
 This is my main text file with some text
 Some more text added
+
+Trying to create new branch and add more text
