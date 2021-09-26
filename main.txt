@@ -2,10 +2,4 @@
 
 
 This is my main text file with some text
-Some more text added
-
-Trying to create new branch and add more text
-
-my name is sharath
- thank u
- bye bye
+Some more text ad
